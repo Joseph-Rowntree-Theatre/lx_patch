@@ -31,5 +31,7 @@ Files include:-
     - Effects 25-36 are fast (mostly 140bpm)
 - Updated the lighting diagrams - allocated sockets to FoH lanterns
 - Updated channels table for FoH sockets
+- Reallocated front socket numbers
+- Moved tab warmers to 72
 
-Last change: 9 September, 2018
+Last change: 14 September, 2018
