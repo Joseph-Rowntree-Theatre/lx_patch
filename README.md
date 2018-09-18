@@ -9,9 +9,10 @@ Files include:-
 
 ## Still To Do
 
-- Test out
-- Update Magicsheets
-- Update Subs to new groups
+- [X] Test out
+- [ ] Update Magicsheets
+- [X] Update Subs to new groups
+- [ ] Add standard haze effect setting
 
 ## Change Log
 
@@ -33,5 +34,9 @@ Files include:-
 - Updated channels table for FoH sockets
 - Reallocated front socket numbers
 - Moved tab warmers to 72
+- Fixed problems with Up/Down stage muddles
+- Corrections
+- Minor changes to docs
+- Fixed Subs
 
-Last change: 14 September, 2018
+Last change: 18 September, 2018
